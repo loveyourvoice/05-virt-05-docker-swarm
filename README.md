@@ -18,14 +18,14 @@
 
 # Задача 2
 
-![Image описание] (https://i.imgur.com/5VnGw4A.png)
+![Image описание](https://i.imgur.com/5VnGw4A.png)
 
 # Задача 3
 
-![Image описание] (https://i.imgur.com/Llrkszj.png)
+![Image описание](https://i.imgur.com/Llrkszj.png)
 
 # Задача 4*
 
 Данная комманда включает дополнительную защиту, перед какими либо действиями будет запрошен пароль, точнее ключ, для подтверждения изменений, это может обезопасить от злоумышленников, а так же от случайных внесенных изменениях неопытного пользователя.
 
-![Image описание] (https://i.imgur.com/BSWrEpB.png)
+![Image описание](https://i.imgur.com/BSWrEpB.png)
